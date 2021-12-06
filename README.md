@@ -3,6 +3,7 @@ This is a simple implementation of the "k-nearest-neighbours" algorithm, a machi
 
 # Training Data
 This is the training data used for this algirhtm which is currently hard coded but shortly, this implementation will be updated to allow the importation of csv files and to be used as training data.
+
 ![name-of-you-image](https://github.com/sababot/k-nearest-neighbours/blob/master/training-data.png)
 
 # References
